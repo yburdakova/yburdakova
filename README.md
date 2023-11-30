@@ -8,6 +8,10 @@
 Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> specializing in the design and development of interactive web applications using HTML, CSS, and JavaScript.
 After a successful 20-year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.
 
+<p align="center">
+ <img width="600" src="./snak.svg" alt="snake"/>
+</p>
+
 - :telescope: Passionate about professional self-education.
 
 - :seedling: Highly motivated.

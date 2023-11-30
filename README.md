@@ -8,15 +8,9 @@
 Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br/>
 After a successful 20-year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.
 
-<p align="center">
- <img width="600" src="./snak.svg" alt="snake"/>
-</p>
-
  :telescope: Passionate about professional self-education.<br/>
-
  :seedling: Highly motivated.<br/>
-
-:zap: Hard worker.<br/>
+ :zap: Hard worker.<br/>
 
 :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-yaburdakova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaburdakova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:burdakovacom@gmail.com)
 

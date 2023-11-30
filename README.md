@@ -12,13 +12,13 @@ After a successful 20-year career, I had to make a career transition, and I am e
  <img width="600" src="./snak.svg" alt="snake"/>
 </p>
 
-- :telescope: Passionate about professional self-education.
+ :telescope: Passionate about professional self-education.<br/>
 
-- :seedling: Highly motivated.
+ :seedling: Highly motivated.<br/>
 
-- :zap: Hard worker.
+:zap: Hard worker.<br/>
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-yaburdakova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaburdakova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:burdakovacom@gmail.com)
+:mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-yaburdakova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaburdakova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:burdakovacom@gmail.com)
 
 ---
 

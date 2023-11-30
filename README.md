@@ -1,0 +1,86 @@
+
+# Hello, my name is Yana!
+
+---
+
+### :man_technologist: Summary:
+
+Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> specializing in the design and development of interactive web applications using HTML, CSS, and JavaScript, with expertise in React.js. Proven hard worker with experience in working with different libraries, design systems, and frameworks such as Redux, Next.js, and Tailwind CSS. Proficient in utilizing Adobe Creative Suite and GitHub for efficient workflow and collaboration. Excellent problem-solving skills, both as an individual contributor and as a collaborative team member. Experienced in both on-site and remote teamwork. Passionate about professional self-education and committed to developing a continuously evolving professional outlook. After a successful 20-year career, I had to make a career transition.
+
+()
+
+- :telescope: Passionate about professional self-education.
+
+- :seedling: Highly motivated.
+
+- :zap: Hard worker.
+
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-yaburdakova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yaburdakova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:burdakovacom@gmail.com)
+
+---
+
+### 🤝 Socials:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/yana-burdakova/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/yaburdakova" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  </div>
+
+---
+
+### 💻 Stack:
+
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🛠 Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+
+
+### ⚙️ GitHub stats:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=yburdakova&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yburdakova&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+### 💻 Litcode:
+
+![LeetCode](https://leetcode-stats-six.vercel.app/api?username=yburdakova&theme=dark)
+
+### 💻 Codewars:
+
+![Codewars](https://www.codewars.com/users/Yana%20Burdakova/badges/large)

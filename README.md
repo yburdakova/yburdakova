@@ -1,5 +1,5 @@
 
-# Hello  👋 , my name is Yana!
+# Hello 👋  My Name Is Yana!
 
 ---
 

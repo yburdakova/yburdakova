@@ -7,7 +7,9 @@
 
 Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> specializing in the design and development of interactive web applications using HTML, CSS, and JavaScript, with expertise in React.js. Proven hard worker with experience in working with different libraries, design systems, and frameworks such as Redux, Next.js, and Tailwind CSS. Proficient in utilizing Adobe Creative Suite and GitHub for efficient workflow and collaboration. Excellent problem-solving skills, both as an individual contributor and as a collaborative team member. Experienced in both on-site and remote teamwork. Passionate about professional self-education and committed to developing a continuously evolving professional outlook. After a successful 20-year career, I had to make a career transition.
 
-()
+<p align="center">
+ <img width="600" src="./snak.svg" alt="snake"/>
+</p>
 
 - :telescope: Passionate about professional self-education.
 

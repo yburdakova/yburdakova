@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: About me:
+### About me:
 
 Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br/>
 After a successful 20-year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.

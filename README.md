@@ -2,8 +2,8 @@
 # Hello 👋  My Name Is Yana!
 
 ---
-Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br/>
-After a successful 20-year career, I had to make a career transition, and I am eager to apply my extensive experience and knowledge to contribute to your team's success and values.
+Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br/>, evolving in Front-end development with proficiency in React.js and React Native, while also possessing experience in Back-end development, demonstrating an aptitude for elevating user engagement by over 50% by employing high-performance algorithms and rigorous testing protocols to deliver robust, error-free applications, effectively bridging the gap between technical solutions and business objectives.
+
 
  :telescope: Passionate about professional self-education.<br/>
  :seedling: Highly motivated.<br/>
